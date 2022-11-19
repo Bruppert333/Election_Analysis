@@ -19,8 +19,9 @@ Deliverable 1. <br/>
 ![deliverable_1](Resources/deliverable_1.png)
 
 Deliverable 2. <br/>
-![deliverable_2](Resources/deliverable_2.png)
-
+![deliverable_2](Resources/deliverable_2.png) <br/>
+I was able to post the results in the terminal by using the print() command. To get the results into the text file you need to use the .write command. 
+![example_print](Resources/example_print.png) 
 
 ## Challenges
 Some challenges of going through this module was understanding why we did the things we did. To start, the way the module jumped around was confusing because sometimes it was hard knowing where the new code we were adding should go. Also, another challenge I had was using "white space", just a simple indenting error could throw off the entire result. I would say this was a great module to under
