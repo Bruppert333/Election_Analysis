@@ -8,6 +8,7 @@ Data source: election_results.csv <br/>
 Progam: Python 3.7 and Visual Studio Code
 
 ## Results
+
 There were 369,711 votes casted. <br/>
 The candidates were: <br/>
     -Charles Casper Stockham <br/>
