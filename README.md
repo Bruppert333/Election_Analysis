@@ -16,10 +16,10 @@ Progam: Python 3.7 and Visual Studio Code
 
 ## Results
 Deliverable 1. <br/>
-[deliverable_1](Resources/deliverable_1.png)
+![deliverable_1](Resources/deliverable_1.png)
 
 Deliverable 2. <br/>
-[deliverable_2](Resources/deliverable_2.png)
+![deliverable_2](Resources/deliverable_2.png)
 
 
 ## Challenges
