@@ -14,7 +14,21 @@ The purpose of this election analysis is to extract data from the election_resul
 Data source: election_results.csv <br/>
 Progam: Python 3.7 and Visual Studio Code
 
-## Election Results
+## Election-Audit Results
+* How many voters were cast in this congressional election? 
+    * 369,711
+* Provide a breakdown of the number of votes and the percentage of toal votes for each county in the precinct.
+    * Jefferson: 10.5% (38,855)
+    * Denver: 82.8% (306,055)
+    * Arapahoe: 6.7% (24,801)
+* Which county had the largest number of votes?
+    * Denver
+* Provide a breakdown of the number of votes and the percentage of the toal votes each candidate received.
+    * Charles Casper Stockham: 23.0% (85,213)
+    * Diana Degette: 73.8% (272,892)
+    * Raymon Anthony Doane: 3.1% (11,606)
+* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+    * The winner of the election was Diana Degette who received 272,892 votes which is 73.8% of the total votes casted. <br/>
 Deliverable 1. <br/>
 ![deliverable_1](Resources/deliverable_1.png)
 
