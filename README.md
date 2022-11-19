@@ -29,6 +29,8 @@ Progam: Python 3.7 and Visual Studio Code
     * Raymon Anthony Doane: 3.1% (11,606)
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
     * The winner of the election was Diana Degette who received 272,892 votes which is 73.8% of the total votes casted. <br/>
+
+## Deliverables 
 Deliverable 1. <br/>
 ![deliverable_1](Resources/deliverable_1.png)
 
