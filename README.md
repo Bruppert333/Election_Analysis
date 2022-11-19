@@ -4,7 +4,7 @@
 The purpose of this module is to find extract the candidates who ran in the election. Then tally the amount of total votes, the amount of votes each candidate received, the percentage of votes each candidate received, and who won the election. 
 
 ## Resources
-Data source: election_results.csv
+Data source: election_results.csv <br/>
 Progam: Python 3.7 and Visual Studio Code
 
 ## Results
