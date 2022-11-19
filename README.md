@@ -20,7 +20,7 @@ Deliverable 1. <br/>
 
 Deliverable 2. <br/>
 ![deliverable_2](Resources/deliverable_2.png) <br/>
-I was able to post the results in the terminal by using the print() command. To get the results into the text file you need to use the .write command. 
+I was able to post the results in the terminal by using the print() command. To get the results into the text file you need to use the .write command. <br/>
 ![example_print](Resources/example_print.png) 
 
 ## Election Audit Summary
