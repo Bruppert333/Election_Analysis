@@ -3,11 +3,11 @@
 ## Project Overview
 The purpose of this module is to find extract the candidates who ran in the election. Then tally the amount of total votes, the amount of votes each candidate received, the percentage of votes each candidate received, and who won the election. 
 
-##Resources
+## Resources
 Data source: election_results.csv
 Progam: Python 3.7 and Visual Studio Code
 
-##Results
+## Results
 -There were 369,711 votes casted.
 -The candidates were:
     -Charles Casper Stockham
