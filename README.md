@@ -40,5 +40,14 @@ I was able to post the results in the terminal by using the print() command. To 
 ![example_print](Resources/example_print.png) 
 
 ## Election Audit Summary
-This script can be used for any election because it will list out the total votes, who the votes were for, and what county the vote came from. It is a repetitive script when it comes to how to get county votes and candidate votes. An example of modifying the script would be if the order of the data was different. For example, if the county was listed after the candidate we would simply change the row[] number to accomdidate that difference. 
+This script can be used for other election because it will list out the total votes, who the votes were for, and what county the vote came from. It is a repetitive script when it comes to how to get county votes and candidate votes. An example of modifying the script would be if the order of the data was different. For example, if the county was listed after the candidate we would simply change the row[] number to accomdidate that difference. Another example of how the script could be modified is if for example it was broken down into cities as well. You would just follow the same steps for what we did for candidates and counties:
+* Initialize a city list and dictionary
+* Initialize a empty string to hold the name of the city with the largest turnout
+* Inititalize a variable to hold the number of votes of the city with the largest turnout
+* Create a For loop that gets the city name from each row
+* Write an If statement
+* write a script that initilized the city vote to zero.
+* Then write a script that adds a vote to the cities vote count that starts at 0. (=+1)
+* Then you can print this information <br/>
+This information can be followed by looking at what the script shows for the candidates and counties.
 
