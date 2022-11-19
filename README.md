@@ -14,7 +14,7 @@ The purpose of this election analysis is to extract data from the election_resul
 Data source: election_results.csv <br/>
 Progam: Python 3.7 and Visual Studio Code
 
-## Results
+## Election Results
 Deliverable 1. <br/>
 ![deliverable_1](Resources/deliverable_1.png)
 
@@ -23,9 +23,6 @@ Deliverable 2. <br/>
 I was able to post the results in the terminal by using the print() command. To get the results into the text file you need to use the .write command. 
 ![example_print](Resources/example_print.png) 
 
-## Challenges
-Some challenges of going through this module was understanding why we did the things we did. To start, the way the module jumped around was confusing because sometimes it was hard knowing where the new code we were adding should go. Also, another challenge I had was using "white space", just a simple indenting error could throw off the entire result. I would say this was a great module to under
-## Challenge Overview
-
-## Challenge Summary
+## Election Audit Summary
+This script can be used for any election because it will list out the total votes, who the votes were for, and what county the vote came from. It is a repetitive script when it comes to how to get county votes and candidate votes. An example of modifying the script would be if the order of the data was different. For example, if the county was listed after the candidate we would simply change the row[] number to accomdidate that difference. 
 
