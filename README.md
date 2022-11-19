@@ -1,7 +1,14 @@
 # Election Analysis
 
 ## Project Overview
-The purpose of this module is to find extract the candidates who ran in the election. Then tally the amount of total votes, the amount of votes each candidate received, the percentage of votes each candidate received, and who won the election. 
+The purpose of this module is to extract data from the election_results.csv file. The CSV file hold over 300,000 lines of data and our job is to break it down to see the following:
+"*" The total votes casted
+"*" What counties the votes came from
+"*" The percentage and votes casted per county
+"*" What county had the largest turnout
+"*" The candidates that ran in the election 
+"*" The percentage and votes the candidates received
+"*" The winner of the election
 
 ## Resources
 Data source: election_results.csv <br/>
