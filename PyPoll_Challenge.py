@@ -5,6 +5,8 @@
 import csv
 import os
 
+CANDIDATE_INDEX =  2
+COUNTY_INDEX = 1
 # Add a variable to load a file from a path.
 file_to_load = os.path.join("Resources", "election_results.csv")
 # Add a variable to save the file to a path.
@@ -39,18 +41,16 @@ with open(file_to_load) as election_data:
 
     # Read the header
     header = next(reader)
-
     # For each row in the CSV file.
     for row in reader:
-
         # Add to the total vote count
         total_votes = total_votes + 1
 
         # Get the candidate name from each row.
-        candidate_name = row[2]
+        candidate_name = row[CANDIDATE_INDEX]
 
         # 3: Extract the county name from each row.
-        county_name = row[1]
+        county_name = row[COUNTY_INDEX]
 
         # If the candidate does not match any existing candidate add it to
         # the candidate list
