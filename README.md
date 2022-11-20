@@ -14,18 +14,40 @@ The purpose of this election analysis is to extract data from the election_resul
 Data source: election_results.csv <br/>
 Progam: Python 3.7 and Visual Studio Code
 
-## Results
+## Election-Audit Results
+* How many voters were cast in this congressional election? 
+    * 369,711
+* Provide a breakdown of the number of votes and the percentage of toal votes for each county in the precinct.
+    * Jefferson: 10.5% (38,855)
+    * Denver: 82.8% (306,055)
+    * Arapahoe: 6.7% (24,801)
+* Which county had the largest number of votes?
+    * Denver
+* Provide a breakdown of the number of votes and the percentage of the toal votes each candidate received.
+    * Charles Casper Stockham: 23.0% (85,213)
+    * Diana Degette: 73.8% (272,892)
+    * Raymon Anthony Doane: 3.1% (11,606)
+* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+    * The winner of the election was Diana Degette who received 272,892 votes which is 73.8% of the total votes casted. <br/>
+
+## Deliverables 
 Deliverable 1. <br/>
 ![deliverable_1](Resources/deliverable_1.png)
 
 Deliverable 2. <br/>
 ![deliverable_2](Resources/deliverable_2.png) <br/>
-I was able to post the results in the terminal by using the print() command. To get the results into the text file you need to use the .write command. 
+I was able to post the results in the terminal by using the print() command. To get the results into the text file you need to use the .write command. <br/>
 ![example_print](Resources/example_print.png) 
 
-## Challenges
-Some challenges of going through this module was understanding why we did the things we did. To start, the way the module jumped around was confusing because sometimes it was hard knowing where the new code we were adding should go. Also, another challenge I had was using "white space", just a simple indenting error could throw off the entire result. I would say this was a great module to under
-## Challenge Overview
-
-## Challenge Summary
+## Election Audit Summary
+This script can be used for other election because it will list out the total votes, who the votes were for, and what county the vote came from. It is a repetitive script when it comes to how to get county votes and candidate votes. An example of modifying the script would be if the order of the data was different. For example, if the county was listed after the candidate we would simply change the row[] number to accomdidate that difference. Another example of how the script could be modified is if for example it was broken down into cities as well. You would just follow the same steps for what we did for candidates and counties:
+* Initialize a city list and dictionary
+* Initialize a empty string to hold the name of the city with the largest turnout
+* Inititalize a variable to hold the number of votes of the city with the largest turnout
+* Create a For loop that gets the city name from each row
+* Write an If statement
+* write a script that initilized the city vote to zero.
+* Then write a script that adds a vote to the cities vote count that starts at 0. (=+1)
+* Then you can print this information <br/>
+This information can be followed by looking at what the script shows for the candidates and counties.
 
